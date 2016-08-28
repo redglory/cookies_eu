@@ -1,5 +1,5 @@
 pt:
-  eu_cookies:
-    short_html: "As cookies ajudam-nos a melhorar a sua experiência no nosso site. Ao navegar no site está a autorizar o uso de cookies."
+  cookies_eu:
+    cookies_text: "As cookies ajudam-nos a melhorar a sua experiência de navegação. Ao navegar no nosso site está a autorizar o uso de cookies."
     learn_more: "Mais informações"
     ok: "OK"
