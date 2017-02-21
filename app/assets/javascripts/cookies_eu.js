@@ -1,4 +1,5 @@
 //= require jquery.cookie
+//= require js.cookie
 
 $(document).ready(function () {
     $('.cookies-eu-ok').click(function (e) {
